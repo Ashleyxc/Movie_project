@@ -1,4 +1,4 @@
-# Movie_project
+# Movie_Project
 
 steps for compiling and run the project 
 

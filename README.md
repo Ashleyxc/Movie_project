@@ -2,11 +2,11 @@
 
 steps for compiling and run the project 
 
-# For installing packages 
+## For installing packages 
 npm install 
 
-# For run project 
+## For run project 
 npm run start
 
-# For generate build 
+## For generate build 
 npm run build 

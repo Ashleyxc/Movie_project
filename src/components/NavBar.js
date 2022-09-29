@@ -55,9 +55,9 @@ const [query, setQuery] = useState("");
                 <button  onClick={()=> document.getElementById('menu-check-inout').click()}>Close</button>
               </div>
               <a href="/"><li>Home</li></a>
-              <a href="movie-list"><li>Movies List</li></a>
-              <a href="movie-list?pageName=likedMovie"><li>Movie List Of Like</li></a>
-              <a href="movie-list?pageName=blockedMovie"><li>Movie List Of Blocked</li></a>
+              <a href="movie-list"><li>Movie Lists</li></a>
+              <a href="movie-list?pageName=likedMovie"><li>Movie Lists Of Liked</li></a>
+              <a href="movie-list?pageName=blockedMovie"><li>Movie Lists Of Blocked</li></a>
             </ul>
           </div>
           <Navbar.Brand href="/home" style={{marginLeft: '300px'}}>Welcome to the Movie Hub</Navbar.Brand>

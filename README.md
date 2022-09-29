@@ -8,5 +8,5 @@ npm install
 # For run project 
 npm run start
 
-# For genrting build 
+# For generate build 
 npm run build 
